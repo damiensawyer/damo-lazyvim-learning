@@ -14,3 +14,4 @@ This project is a direct clone of the lazyvim starter with minimal changes.
 Which links to [here](https://github.com/hrsh7th/nvim-cmp/blob/0b751f6beef40fd47375eaf53d3057e0bfa317e4/doc/cmp.txt#L956-L969)
 That lead me to the changes I've recorded ~/.config/nvim/lua/plugins/example.lua
 
+I have made changes to [Example.lua](./lua/plugins/example.lua) which I thought were implementing what they're suggesting. 
