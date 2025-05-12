@@ -3,7 +3,7 @@
 
 I am trying to figure out how to turn off the snippet suggestions in markdown files. 
 
-See ![screen.jpg](./screen.jpg) in this folder for an example. 
+![Example of Issue](./screen.jpg)
 
 I am quite surprised at how long I've tried to do this, and how badly I've failed! It's now become so much more than me trying to solve this task, but more about me learning lazyvim / neovim. 
 
