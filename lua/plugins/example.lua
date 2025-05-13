@@ -1,14 +1,13 @@
 -- since this is just an example spec, don't actually load anything here and return an empty spec
 -- stylua: ignore
 
+-- turning off auto complete
 if true then return {
   {
-    "hrsh7th/nvim-cmp",
-    opts = {
-      completion = { autocomplete = false }
-    }
+    "saghen/blink.cmp",enabled = false
   }
 } end
+
 -- every spec file under the "plugins" directory will be loaded automatically by lazy.nvim
 --
 -- In your plugin files, you can:
